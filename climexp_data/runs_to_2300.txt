@@ -1,0 +1,16 @@
+global_tas_Amon_bcc-csm1-1_rcp26_r1i1p1.dat
+global_tas_Amon_bcc-csm1-1_rcp85_r1i1p1.dat
+global_tas_Amon_CanESM2_rcp26_r1i1p1.dat
+global_tas_Amon_CCSM4_rcp26_r1i1p1.dat
+global_tas_Amon_CCSM4_rcp85_r1i1p1.dat
+global_tas_Amon_CESM1-CAM5_rcp26_r1i1p1.dat
+global_tas_Amon_CNRM-CM5_rcp85_r1i1p1.dat
+global_tas_Amon_CSIRO-Mk3-6-0_rcp85_r1i1p1.dat
+global_tas_Amon_GISS-E2-H_rcp26_r1i1p1.dat
+global_tas_Amon_GISS-E2-H_rcp85_r1i1p1.dat
+global_tas_Amon_GISS-E2-R_rcp26_r1i1p1.dat
+global_tas_Amon_GISS-E2-R_rcp85_r1i1p1.dat
+global_tas_Amon_IPSL-CM5A-LR_rcp26_r1i1p1.dat
+global_tas_Amon_IPSL-CM5A-LR_rcp85_r1i1p1.dat
+global_tas_Amon_MPI-ESM-LR_rcp26_r1i1p1.dat
+global_tas_Amon_MPI-ESM-LR_rcp85_r1i1p1.dat
